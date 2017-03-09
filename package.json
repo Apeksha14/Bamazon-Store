@@ -1,0 +1,26 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apeksha14/Bamazon-Store.git"
+  },
+  "keywords": [
+    "Bamazon"
+  ],
+  "author": "Apeksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apeksha14/Bamazon-Store/issues"
+  },
+  "homepage": "https://github.com/Apeksha14/Bamazon-Store#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
